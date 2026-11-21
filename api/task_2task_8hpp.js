@@ -1,0 +1,27 @@
+var task_2task_8hpp =
+[
+    [ "ilias::task::BlockingWait", "classilias_1_1task_1_1BlockingWait.html", "classilias_1_1task_1_1BlockingWait" ],
+    [ "std::hash< ilias::task::TaskHandle< T > >", "structstd_1_1hash_3_01ilias_1_1task_1_1TaskHandle_3_01T_01_4_01_4.html", "structstd_1_1hash_3_01ilias_1_1task_1_1TaskHandle_3_01T_01_4_01_4" ],
+    [ "ilias::task::Null", "classilias_1_1task_1_1Null.html", null ],
+    [ "ilias::Task< T >", "classilias_1_1Task.html", "classilias_1_1Task" ],
+    [ "ilias::task::TaskAwaiter< T >", "classilias_1_1task_1_1TaskAwaiter.html", "classilias_1_1task_1_1TaskAwaiter" ],
+    [ "ilias::task::TaskAwaiterBase", "classilias_1_1task_1_1TaskAwaiterBase.html", "classilias_1_1task_1_1TaskAwaiterBase" ],
+    [ "ilias::task::TaskBlockingAwaiter< Fn >", "classilias_1_1task_1_1TaskBlockingAwaiter.html", "classilias_1_1task_1_1TaskBlockingAwaiter" ],
+    [ "ilias::task::TaskContext", "classilias_1_1task_1_1TaskContext.html", "classilias_1_1task_1_1TaskContext" ],
+    [ "ilias::task::TaskHandle< T >", "classilias_1_1task_1_1TaskHandle.html", "classilias_1_1task_1_1TaskHandle" ],
+    [ "ilias::task::TaskHandle< Null >", "classilias_1_1task_1_1TaskHandle_3_01Null_01_4.html", "classilias_1_1task_1_1TaskHandle_3_01Null_01_4" ],
+    [ "ilias::task::TaskPromise< T >", "classilias_1_1task_1_1TaskPromise.html", "classilias_1_1task_1_1TaskPromise" ],
+    [ "ilias::task::TaskPromiseBase< T >", "classilias_1_1task_1_1TaskPromiseBase.html", "classilias_1_1task_1_1TaskPromiseBase" ],
+    [ "ilias::task::TaskPromiseBase< void >", "classilias_1_1task_1_1TaskPromiseBase_3_01void_01_4.html", "classilias_1_1task_1_1TaskPromiseBase_3_01void_01_4" ],
+    [ "ilias::task::TaskRefBlockingContext", "classilias_1_1task_1_1TaskRefBlockingContext.html", "classilias_1_1task_1_1TaskRefBlockingContext" ],
+    [ "ilias::task::ToTask", "classilias_1_1task_1_1ToTask.html", "classilias_1_1task_1_1ToTask" ],
+    [ "ILIAS_CORO_AWAIT_ELIDABLE", "task_2task_8hpp.html#a8bb681f7a047b6603a612a2e7e1fac40", null ],
+    [ "ILIAS_CORO_ELIDABLE_ARGUMENT", "task_2task_8hpp.html#a79543e195d6abcd2e90d0d9a7605d4a5", null ],
+    [ "ILIAS_CORO_RETURN_TYPE", "task_2task_8hpp.html#af912262362a6c69a840ad65ab5978bc7", null ],
+    [ "blocking", "task_2task_8hpp.html#acae378fe0736c70101a55cc99ae59ce6", null ],
+    [ "coInvoke", "task_2task_8hpp.html#ad32ed118a520b920a15d89cd09166ffc", null ],
+    [ "sleep", "task_2task_8hpp.html#aa344502e3853b0d9829832932c3a6000", null ],
+    [ "sleepUntil", "task_2task_8hpp.html#a49856afb55a74a6b0a5d7ad1f6432be7", null ],
+    [ "blockingWait", "task_2task_8hpp.html#a92981328497816204a476c9b3294774b", null ],
+    [ "toTask", "task_2task_8hpp.html#a44a4969d0396da23715c07f473d270e5", null ]
+];
